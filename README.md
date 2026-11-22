@@ -1,6 +1,6 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,45:161B22,100:555B63&text=SY%20NNOX&fontColor=FFFFFF&fontSize=75&fontAlignY=38&desc=D%C3%89VELOPPEUR%20%7C%20C%2B%2B%20%7C%20PYTHON%20%7C%20WEB&descAlignY=60&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,45:161B22,100:555B63&text=Synnox&fontColor=FFFFFF&fontSize=75&fontAlignY=38&desc=D%C3%89VELOPPEUR%20%7C%20C%2B%2B%20%7C%20PYTHON%20%7C%20WEB&descAlignY=60&descSize=16&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=C9D1D9&center=true&vCenter=true&width=650&lines=Bienvenue+sur+mon+profil+GitHub.;D%C3%A9veloppement+C%2B%2B+%7C+Python+%7C+Web.;Je+transforme+mes+id%C3%A9es+en+projets.;Apprendre.+Cr%C3%A9er.+Innover." />
 
@@ -32,6 +32,7 @@ Mon objectif est de progresser constamment, d'explorer de nouvelles possibilité
 ```yaml
 Nom: Synnox
 Rôle: Développeur
+
 Spécialités:
   - C++
   - Python
@@ -206,13 +207,9 @@ N'hésite pas à me retrouver sur mes réseaux ou à découvrir mes projets.
 
 ## 08 — MA PHILOSOPHIE
 
-### Origine du projet & hommage
+Cette philosophie repose sur l'héritage d'**Aaron Swartz**, son combat et sa vision d’un monde où le savoir ne devrait jamais être un privilège réservé à quelques-uns.
 
-Ce serveur n’est pas né par hasard.
-
-Son idée m’est venue grâce à **Aaron Swartz**, à son combat et à sa vision d’un monde où le savoir ne devrait jamais être un privilège réservé à quelques-uns.
-
-À travers ce projet, j’essaie, à mon échelle, de faire vivre cet esprit de partage et de liberté qu’il défendait avec tant de force.
+À travers mes projets, j’essaie, à mon échelle, de faire vivre cet esprit de partage et de liberté qu’il défendait avec tant de force.
 
 > « L’information est un pouvoir. Mais comme tout pouvoir, certains veulent le garder pour eux. »
 
@@ -220,29 +217,15 @@ Son idée m’est venue grâce à **Aaron Swartz**, à son combat et à sa visio
 
 Ces mots résonnent encore aujourd’hui.
 
-J’espère que ce serveur restera fidèle à ces valeurs : **le partage, la connaissance, la liberté et l'accès au savoir pour tous.**
-
 Qu’il repose en paix, là où il est. 🕊️
 
-Cet espace est aussi une pensée pour lui, et pour ce qu’il a laissé derrière lui.
-
 <div align="center">
-
-<br/>
 
 ### LE SAVOIR DOIT ÊTRE LIBRE.
 
 *Partager la connaissance, c'est contribuer à un monde plus libre.*
 
-<br/>
-
 **En mémoire d'Aaron Swartz 🕊️**
-
-<br/>
-
-**SY NNOX**
-
-<sub>APPRENDRE • CRÉER • PARTAGER • INNOVER</sub>
 
 </div>
 
@@ -252,7 +235,7 @@ Cet espace est aussi une pensée pour lui, et pour ce qu’il a laissé derrièr
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:555B63,50:161B22,100:000000&height=120&section=footer" />
 
-**SY NNOX**
+**Synnox**
 
 <sub>© Synnox — Tous droits réservés.</sub>
 
