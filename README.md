@@ -7,7 +7,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mon%20profil-181717?style=for-the-badge&logo=github)](https://github.com/synnox)
-[![Site](https://img.shields.io/badge/Site-Mon%20portfolio-30363d?style=for-the-badge&logo=googlechrome)](https://synnox.github.io/Synnox.pro/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Mon%20site-30363d?style=for-the-badge&logo=googlechrome)](https://synnox.github.io/Synnox.pro/)
 
 ![Visiteurs](https://komarev.com/ghpvc/?username=synnox&style=flat-square&color=30363d&label=VISITEURS)
 
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-**Bienvenue dans mon univers.**
+**BIENVENUE DANS MON UNIVERS.**
 
 </div>
 
@@ -32,9 +32,12 @@ Mon objectif est de progresser constamment, d'explorer de nouvelles possibilité
 ```yaml
 Nom: Synnox
 Rôle: Développeur
-Langages:
+Spécialités:
   - C++
   - Python
+  - Développement Web
+
+Technologies:
   - HTML
   - CSS
   - JavaScript
@@ -47,7 +50,7 @@ Domaines:
   - Projets numériques
 
 Localisation: France
-Site: https://synnox.github.io/Synnox.pro/
+Portfolio: https://synnox.github.io/Synnox.pro/
 ```
 
 ---
@@ -151,7 +154,13 @@ Expérimentation, nouvelles idées et conception d'outils numériques.
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/synnox/synnox/output/github-contribution-grid-snake-dark.svg" alt="Animation de mes contributions GitHub" />
+### MON PARCOURS, MES CONTRIBUTIONS.
+
+Chaque contribution représente une étape dans mon parcours de développeur.
+
+<img width="100%" src="https://raw.githubusercontent.com/synnox/synnox/output/github-contribution-grid-snake-dark.svg" alt="Animation du serpent parcourant mes contributions GitHub" />
+
+<sub>Une visualisation animée de mes contributions GitHub.</sub>
 
 </div>
 
@@ -161,7 +170,7 @@ Expérimentation, nouvelles idées et conception d'outils numériques.
 
 <div align="center">
 
-**Retrouve-moi sur mes différentes plateformes.**
+**RETROUVE-MOI SUR MES DIFFÉRENTES PLATEFORMES.**
 
 <br/>
 
@@ -197,18 +206,56 @@ N'hésite pas à me retrouver sur mes réseaux ou à découvrir mes projets.
 
 ## 08 — MA PHILOSOPHIE
 
+### Origine du projet & hommage
+
+Ce serveur n’est pas né par hasard.
+
+Son idée m’est venue grâce à **Aaron Swartz**, à son combat et à sa vision d’un monde où le savoir ne devrait jamais être un privilège réservé à quelques-uns.
+
+À travers ce projet, j’essaie, à mon échelle, de faire vivre cet esprit de partage et de liberté qu’il défendait avec tant de force.
+
+> « L’information est un pouvoir. Mais comme tout pouvoir, certains veulent le garder pour eux. »
+
+> « Nous devons prendre l’information, où qu’elle soit stockée, en faire des copies et la partager avec le monde. »
+
+Ces mots résonnent encore aujourd’hui.
+
+J’espère que ce serveur restera fidèle à ces valeurs : **le partage, la connaissance, la liberté et l'accès au savoir pour tous.**
+
+Qu’il repose en paix, là où il est. 🕊️
+
+Cet espace est aussi une pensée pour lui, et pour ce qu’il a laissé derrière lui.
+
 <div align="center">
-
-### « Chaque idée peut devenir un projet. »
-
-**APPRENDRE • CRÉER • DÉVELOPPER • INNOVER**
 
 <br/>
 
-Merci d'avoir visité mon profil !
+### LE SAVOIR DOIT ÊTRE LIBRE.
 
-<sub>© SY NNOX — Tous droits réservés.</sub>
+*Partager la connaissance, c'est contribuer à un monde plus libre.*
+
+<br/>
+
+**En mémoire d'Aaron Swartz 🕊️**
+
+<br/>
+
+**SY NNOX**
+
+<sub>APPRENDRE • CRÉER • PARTAGER • INNOVER</sub>
 
 </div>
 
+---
+
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:555B63,50:161B22,100:000000&height=120&section=footer" />
+
+**SY NNOX**
+
+<sub>© Synnox — Tous droits réservés.</sub>
+
+<sub>Merci d'avoir pris le temps de découvrir mon univers.</sub>
+
+</div>
